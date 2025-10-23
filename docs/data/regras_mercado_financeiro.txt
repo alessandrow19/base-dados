@@ -1,0 +1,53 @@
+# Regras do Mercado Financeiro e de Capitais para Compliance
+
+## Objetivo
+Apresentar os principais requisitos regulatórios que impactam operações bancárias no mercado financeiro e de capitais brasileiro, permitindo que colaboradores ofereçam orientação segura a clientes e parceiros.
+
+## Principais órgãos reguladores
+- **Banco Central do Brasil (BCB)** – supervisiona instituições financeiras, pagamentos e câmbio.
+- **Comissão de Valores Mobiliários (CVM)** – regula o mercado de capitais, fundos de investimento e intermediários.
+- **Conselho Monetário Nacional (CMN)** – define diretrizes para políticas monetária, creditícia e cambial.
+- **Superintendência de Seguros Privados (SUSEP)** – fiscaliza seguros, previdência complementar aberta e capitalização.
+
+## Normativos fundamentais
+- **Resolução CMN nº 4.557/2017** – estrutura de gerenciamento de riscos para instituições financeiras.
+- **Resolução CMN nº 4.590/2017** – governança corporativa para instituições financeiras de capital aberto.
+- **Resolução CMN nº 4.753/2019** – identificação do beneficiário final e prevenção ao uso indevido de estruturas societárias.
+- **Instrução CVM nº 505/2011** (alterada pela Resolução CVM nº 135/2022) – regras para intermediação de operações em mercados regulamentados.
+- **Resolução CVM nº 44/2021** – trata de divulgação de atos e fatos relevantes e negociação com valores mobiliários.
+- **Lei nº 6.385/1976** – estrutura o mercado de valores mobiliários e cria a CVM.
+- **Lei nº 4.595/1964** – institui o Conselho Monetário Nacional e disciplina o Sistema Financeiro Nacional.
+
+## Temas críticos para compliance
+1. **Chinese walls e tratamento de informações privilegiadas**
+   - Segregar áreas de análise, tesouraria e corretora, conforme Resolução CVM nº 44/2021.
+   - Manter registros de acesso às informações e listas de insiders.
+
+2. **Suitability e atendimento ao investidor**
+   - Avaliar perfil do cliente segundo a Resolução CVM nº 30/2021 e as orientações do Banco Central para produtos estruturados.
+   - Documentar recomendação de investimento, riscos e aderência ao perfil.
+
+3. **Prevenção a abusos de mercado**
+   - Monitorar operações para detectar manipulação de preços, spoofing, layering e insider trading.
+   - Cumprir obrigações de reporte à CVM, B3 e ao Banco Central (SARA, Selic, Cetip UTVM).
+
+4. **Regras cambiais e capitais internacionais**
+   - Observar a Lei nº 14.286/2021 (novo marco cambial) e normas do BCB sobre registro de capitais estrangeiros (Resolução BCB nº 278/2022).
+   - Registrar operações no Sistema Integrado de Comércio Exterior (Siscomex) quando pertinente.
+
+5. **Gestão de riscos e capital**
+   - Calcular requerimento de capital, Liquidity Coverage Ratio (LCR) e Net Stable Funding Ratio (NSFR) conforme Resolução CMN nº 4.676/2018 e Resolução BCB nº 200/2022.
+   - Reportar Demonstrações Financeiras Padronizadas (DFP) e Documentos 2030/2060 ao Banco Central.
+
+6. **Relacionamento com autorreguladores**
+   - Adequar-se aos códigos de autorregulação da Anbima e da BSM Supervisão de Mercados, quando aplicável.
+   - Monitorar atualizações e comunicados de supervisão compartilhada (CVM/BCB).
+
+## Relatórios e prazos
+- Enviar informes periódicos ao Banco Central (Cosif, Documentos 3040 e 3050) e à CVM (Formulário de Referência, Informe Trimestral de Fundos).
+- Manter arquivo de documentação por, no mínimo, 5 anos ou prazo superior estabelecido pela legislação específica.
+
+## Materiais de referência
+- Portal do Banco Central – Sistemas de Informações do SFN.
+- Portal da CVM – Biblioteca de normas e ofícios circulares.
+- Febraban – Guias de compliance para mercado de capitais e intermediários financeiros.

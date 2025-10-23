@@ -1,0 +1,52 @@
+# Boas Práticas na Concessão de Crédito
+
+## Objetivo
+Estabelecer diretrizes para concessão responsável de crédito em instituições financeiras, observando normas do Conselho Monetário Nacional, Banco Central do Brasil e recomendações da Febraban.
+
+## Principais normas
+- **Resolução CMN nº 4.557/2017** – trata da estrutura de gerenciamento de riscos e capital, incluindo risco de crédito.
+- **Resolução CMN nº 4.606/2017** – define a política de concessão de crédito rural sustentável.
+- **Resolução CMN nº 4.327/2014** – dispõe sobre diretrizes socioambientais nas instituições financeiras.
+- **Resolução CMN nº 4.655/2018** – disciplina a política de concessão de crédito consignado para o setor público.
+- **Carta-Circular BCB nº 3.846/2017** – orienta sobre o registro correto de operações de crédito.
+- **Código de Autorregulação Bancária da Febraban** – estabelece princípios de atendimento responsável ao consumidor.
+
+## Etapas do processo de crédito
+1. **Análise cadastral e documental**
+   - Validar identidade, capacidade civil e informações cadastrais junto a bases oficiais (Receita Federal, Cadastros Positivos, Registrato).
+   - Avaliar beneficiário final em operações com pessoas jurídicas, conforme Resolução CMN nº 4.753/2019.
+
+2. **Avaliação de capacidade de pagamento**
+   - Aplicar modelos de crédito que considerem renda, comprometimento de renda (nível de endividamento) e histórico de pagamentos.
+   - Observar limites legais para consignação em folha (Lei nº 10.820/2003) e regras específicas do INSS e do setor público.
+
+3. **Análise de risco e garantias**
+   - Classificar operações por níveis de risco e constituir provisões conforme Resolução CMN nº 2.682/1999.
+   - Avaliar garantias reais, fidejussórias e mitigadores de risco, registrando-as em sistemas autorizados (ex.: Registrato, B3 Cetip UTVM).
+
+4. **Aspectos socioambientais e de integridade**
+   - Considerar riscos socioambientais relevantes conforme Resolução CMN nº 4.327/2014 e Guia Febraban de Sustentabilidade.
+   - Checar listas de sanções, trabalho escravo e órgãos ambientais antes de aprovar crédito.
+
+5. **Formalização e desembolso**
+   - Redigir contratos claros, com cláusulas de taxa, encargos e direitos do consumidor em conformidade com o Código de Defesa do Consumidor (Lei nº 8.078/1990).
+   - Registrar operações em sistemas oficiais quando exigido (ex.: Sistema de Registro de Operações de Crédito – SCR do Banco Central).
+
+6. **Monitoramento pós-concessão**
+   - Acompanhar indicadores de inadimplência, renegociações e provisões.
+   - Reavaliar limites e garantias periodicamente, ajustando classificação de risco conforme normativos do BCB.
+
+## Proteção do consumidor
+- Cumprir as normas da **Resolução CMN nº 4.949/2021** sobre portabilidade de crédito e transparência de custos.
+- Fornecer informações padronizadas (Custo Efetivo Total – CET) conforme regulamentação do BCB.
+- Respeitar as regras do Cadastro Positivo (Lei Complementar nº 166/2019).
+
+## Controles internos e compliance
+- Integrar o comitê de crédito com a função de compliance para garantir aderência às políticas aprovadas.
+- Registrar decisões e votos, mantendo trilha de auditoria para inspeções do Banco Central.
+- Utilizar modelos de credit score auditáveis, com documentação técnica e validação independente.
+
+## Referências institucionais
+- Banco Central do Brasil – Manuais do Sistema de Informações de Crédito (SCR).
+- CMN – Resoluções sobre gestão de risco de crédito.
+- Febraban – Guia de Melhores Práticas de Crédito Responsável.
