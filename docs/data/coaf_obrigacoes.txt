@@ -1,0 +1,45 @@
+# Obrigações de Comunicação ao COAF
+
+## Finalidade
+Detalhar procedimentos que colaboradores bancários devem seguir para cumprir as obrigações de prevenção à lavagem de dinheiro e ao financiamento do terrorismo (PLD/FT) perante o Conselho de Controle de Atividades Financeiras (COAF), conforme legislação brasileira.
+
+## Marcos legais e normativos
+- **Lei nº 9.613/1998** – dispõe sobre crimes de lavagem de dinheiro e cria o COAF.
+- **Circular BCB nº 3.978/2020** – estabelece políticas, procedimentos e controles internos de PLD/FT para instituições autorizadas pelo Banco Central.
+- **Resolução COAF nº 36/2021** – define critérios, prazos e formato das comunicações de operações ao órgão.
+- **Carta Circular BCB nº 4.001/2020** – orienta sobre a utilização do sistema Siscoaf.
+
+## Tipos de comunicação
+1. **Comunicação de operação suspeita (COS)**
+   - Obrigatória sempre que houver indícios de lavagem de dinheiro, financiamento do terrorismo ou demais ilícitos previstos na Lei nº 9.613/1998.
+   - Deve incluir descrição detalhada dos fatos, valores, partes envolvidas e justificativa da suspeita.
+
+2. **Comunicação de operação em espécie (COE)**
+   - Informar depósitos, saques ou pagamentos em espécie iguais ou superiores ao limite fixado pela Resolução COAF nº 36/2021.
+   - Registrar inclusive quando o cliente fraciona valores para burlar controles.
+
+3. **Comunicação negativa**
+   - Quando não houver operações a reportar em determinado período, emitir declaração negativa no Siscoaf dentro do prazo previsto.
+
+## Procedimentos internos recomendados
+- Manter cadastro atualizado no Siscoaf e controlar perfis de acesso conforme Circular BCB nº 3.978/2020.
+- Registrar todas as análises de operações em sistema interno, preservando evidências e trilhas de auditoria.
+- Implantar fluxos de decisão envolvendo equipe de PLD/FT, compliance e jurídico, garantindo prazos de até 24 horas após identificação de suspeita.
+- Realizar conciliação entre alertas automatizados e tratativas manuais, documentando justificativas para descartes.
+
+## Boas práticas para colaboradores
+- Conhecer o perfil e a atividade econômica dos clientes (procedimentos de KYC) com base nos critérios da Circular BCB nº 3.978/2020.
+- Reportar imediatamente situações atípicas como: movimentações incompatíveis, uso de contas de terceiros, operações estruturadas, transferências para jurisdições de alto risco ou sanções.
+- Utilizar listas oficiais do COAF, ONU e Banco Central para triagem de pessoas expostas politicamente (PEPs) e de países com deficiências estratégicas.
+- Garantir confidencialidade das comunicações, evitando informar o cliente sobre o reporte (vedação ao tipping-off prevista na Lei nº 9.613/1998).
+
+## Indicadores de monitoramento
+- Tempo médio entre detecção da suspeita e envio da comunicação.
+- Percentual de alertas tratados dentro do SLA interno.
+- Número de comunicações negativas enviadas no prazo.
+- Ocorrências de retorno do COAF solicitando complementações.
+
+## Referências oficiais e materiais de apoio
+- Portal COAF – Manuais de comunicação e perguntas frequentes.
+- Banco Central do Brasil – Página sobre PLD/FT e supervisão cooperativa com o COAF.
+- Febraban – Manuais de PLD/FT para o setor bancário.

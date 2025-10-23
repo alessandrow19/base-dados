@@ -1,3 +1,0 @@
-As seções podem conter várias linhas e parágrafos. Cada arquivo de texto é transformado em um conjunto de parágrafos organizados automaticamente.
-
-Também é possível estender a lógica para ler dados de APIs ou outros formatos, bastando adaptar o JavaScript.
