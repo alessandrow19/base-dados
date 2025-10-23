@@ -1,3 +1,3 @@
-Este é um exemplo de introdução criada para demonstrar o carregamento dinâmico de arquivos.
+Este é um exemplo de teste de introdução criada para demonstrar o carregamento dinâmico de arquivos.
 
 A proposta é manter o conteúdo dos textos separado do código HTML, facilitando a atualização.
