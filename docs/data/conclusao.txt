@@ -1,0 +1,3 @@
+Com esta estrutura, qualquer pessoa pode atualizar os textos sem tocar no HTML principal.
+
+O objetivo é servir como base para um site simples publicado no GitHub Pages.

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Visualização de Arquivos TXT</title>
+    <link rel="stylesheet" href="https://unpkg.com/modern-css-reset/dist/reset.min.css" />
+    <style>
+      body {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background-color: #f3f4f6;
+        color: #1f2933;
+        line-height: 1.6;
+        padding: 2rem;
+      }
+
+      header {
+        max-width: 64rem;
+        margin: 0 auto 2rem;
+        text-align: center;
+      }
+
+      main {
+        max-width: 64rem;
+        margin: 0 auto;
+        display: grid;
+        gap: 1.5rem;
+      }
+
+      section {
+        background: #ffffff;
+        border-radius: 0.75rem;
+        box-shadow: 0 10px 30px rgba(15, 23, 42, 0.1);
+        padding: 1.5rem;
+      }
+
+      h2 {
+        font-size: 1.5rem;
+        margin-bottom: 1rem;
+        color: #0f172a;
+      }
+
+      p {
+        margin-bottom: 0.75rem;
+        text-align: justify;
+      }
+
+      .feedback {
+        text-align: center;
+        color: #ef4444;
+        font-weight: 600;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Conteúdo organizado por seções</h1>
+      <p>
+        Cada seção abaixo é gerada automaticamente a partir de um arquivo <code>.txt</code>
+        hospedado neste repositório.
+      </p>
+    </header>
+
+    <main id="sections-container">
+      <p class="feedback" id="loading-message">Carregando conteúdo…</p>
+    </main>
+
+    <script type="module" src="./assets/main.js"></script>
+  </body>
+</html>
