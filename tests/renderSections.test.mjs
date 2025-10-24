@@ -66,6 +66,17 @@ test('textToParagraphs remove espaços extras e linhas vazias', () => {
   ]);
 });
 
+test('textToParagraphs remove sinais de título markdown', () => {
+  const rawText = '# Título Principal\n\n## Subtítulo com detalhe\n\nParágrafo comum';
+  const paragraphs = textToParagraphs(rawText);
+
+  assert.deepStrictEqual(paragraphs, [
+    'Título Principal',
+    'Subtítulo com detalhe',
+    'Parágrafo comum',
+  ]);
+});
+
 test('renderSections cria seções com títulos e parágrafos', () => {
   const mockDocument = new MockDocument();
   const container = new MockElement('main', mockDocument);
