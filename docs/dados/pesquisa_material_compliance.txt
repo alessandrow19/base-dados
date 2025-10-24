@@ -1,0 +1,15 @@
+Checklist de Pesquisa e Curadoria:
+1. Definir objetivos específicos de compliance (fraudes, PLD/FT, controles internos, LGPD).
+2. Selecionar fontes oficiais (BACEN, CVM, COAF, FEBRABAN, GAFI) e literatura especializada recente.
+3. Avaliar credibilidade, data e abrangência, descartando materiais desatualizados ou opinativos.
+4. Organizar os achados por temas-chave e mapear lacunas de conhecimento.
+5. Documentar metadados (fonte, autor, data, link) e validar com especialistas internos.
+
+Prompt de Pesquisa Sugerido:
+"Você é um analista de compliance bancário. Investigue normas brasileiras e referências internacionais atuais sobre prevenção à lavagem de dinheiro, governança, gestão de riscos, conduta e proteção de dados para instituições financeiras. Compile resumos acionáveis, destaque obrigações regulatórias, melhores práticas e tendências emergentes. Indique quando o material exigir atualização ou parecer jurídico."
+
+Validação do Resultado:
+Os materiais coletados cobrem regulamentações centrais (BACEN, COAF, CVM), guias práticos da FEBRABAN e relatórios internacionais do GAFI, fornecendo base robusta para enriquecer a base de conhecimento do agente de compliance. Próximo passo: armazenar os documentos com metadados estruturados e revisar lacunas identificadas, priorizando temas com menor cobertura.
+
+Solicitação de Organização:
+Todos os arquivos de referência reunidos na pesquisa devem ser salvos na pasta "dados" da base de conhecimento para padronizar o acesso do agente.
