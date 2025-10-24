@@ -8,6 +8,7 @@ Fornecer orientações operacionais para bancos implementarem políticas de PLD/
 - **Decreto nº 9.663/2019** – aprova a Estrutura Regimental do COAF dentro do Banco Central.
 - **Circular BCB nº 3.978/2020** – define requisitos mínimos para políticas, procedimentos e controles de PLD/FT.
 - **Resolução CMN nº 4.595/2017** – integra a função de compliance ao gerenciamento de riscos de PLD/FT.
+- **Resolução BCB nº 201/2022** – dispõe sobre políticas, procedimentos e controles internos para prevenção a crimes de lavagem de dinheiro no segmento de pagamentos.
 - **Manual de PLD/FT Febraban (edição vigente)** – consolida boas práticas setoriais.
 
 ## Política e avaliação de risco
@@ -32,21 +33,36 @@ Fornecer orientações operacionais para bancos implementarem políticas de PLD/
 ## Retenção de registros e documentação
 - Guardar informações cadastrais e documentos por, no mínimo, 10 anos após encerramento da relação comercial, conforme Lei nº 9.613/1998.
 - Preservar relatórios de análise, evidências e comunicações para fiscalização do Banco Central e do COAF.
+- Manter inventário de modelos e parametrizações de monitoramento, com histórico de ajustes.
 
 ## Treinamento e conscientização
 - Promover capacitações regulares com conteúdo atualizado sobre red flags, padrões de lavagem e listas de sanções.
 - Utilizar materiais da Febraban, do Banco Central e do COAF para reforçar boas práticas.
+- Realizar exercícios de simulação de comunicações ao COAF e de incidentes de compliance.
 
 ## Auditoria e melhoria contínua
 - Incluir testes específicos de PLD/FT no plano anual de auditoria interna.
 - Monitorar indicadores como número de alertas tratados, comunicações realizadas e tempo de atualização cadastral.
 - Revisar modelos de monitoramento e critérios de risco diante de novas tipologias divulgadas pelo COAF.
+- Realizar validação independente de modelos (model validation) seguindo as diretrizes da Resolução BCB nº 239/2022.
 
 ## Coordenação com órgãos reguladores
 - Atender tempestivamente às solicitações do Banco Central e do COAF, fornecendo documentação comprobatória.
 - Participar das consultas públicas e comunicados do BCB para atualizar políticas internas.
+- Integrar-se às iniciativas do GAFILAT e do GAFI para compartilhar boas práticas regionais.
 
-## Referências de estudo
-- Portal BCB – Página de PLD/FT e Relatórios de Supervisão.
-- Portal COAF – Comunicados de tipologias e guias práticos.
-- Febraban – Cursos e trilhas de PLD/FT.
+## Indicadores-chave de desempenho
+- Percentual de alertas concluídos dentro do prazo definido.
+- Número de comunicações encaminhadas versus comunicações devolvidas pelo COAF para complementação.
+- Taxa de atualização cadastral dentro dos prazos estabelecidos.
+- Cobertura de treinamento (colaboradores treinados versus total elegível).
+
+## Fontes
+- Brasil. Lei nº 9.613, de 3 de março de 1998. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/l9613.htm
+- Brasil. Decreto nº 9.663, de 1º de janeiro de 2019. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D9663.htm
+- Banco Central do Brasil. Circular nº 3.978, de 23 de janeiro de 2020. Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=3978
+- Conselho Monetário Nacional. Resolução nº 4.595, de 28 de agosto de 2017. Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4595
+- Banco Central do Brasil. Resolução nº 201, de 18 de março de 2022. Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=201
+- Banco Central do Brasil. Resolução nº 239, de 26 de setembro de 2022. Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=239
+- Febraban. Manual de PLD/FT. Disponível em: https://portal.febraban.org.br/pagina/3103/66/pt-br/manual-pld-ft
+- GAFI/FATF. International Standards on Combating Money Laundering and the Financing of Terrorism & Proliferation. Disponível em: https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html
