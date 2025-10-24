@@ -9,6 +9,7 @@ export function textToParagraphs(rawText) {
   return rawText
     .split(/\r?\n\s*\r?\n/g) // quebra por linhas em branco.
     .map((paragraph) => paragraph.trim())
+    .map((paragraph) => paragraph.replace(/^#+\s*/, '')) // remove marcadores de título do markdown.
     .filter(Boolean); // remove parágrafos vazios.
 }
 
