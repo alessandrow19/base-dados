@@ -5,9 +5,10 @@ Estabelecer diretrizes para concessão responsável de crédito em instituiçõe
 
 ## Principais normas
 - **Resolução CMN nº 4.557/2017** – trata da estrutura de gerenciamento de riscos e capital, incluindo risco de crédito.
-- **Resolução CMN nº 4.606/2017** – define a política de concessão de crédito rural sustentável.
+- **Resolução CMN nº 4.606/2017** – define diretrizes para a política de crédito rural sustentável.
 - **Resolução CMN nº 4.327/2014** – dispõe sobre diretrizes socioambientais nas instituições financeiras.
-- **Resolução CMN nº 4.655/2018** – disciplina a política de concessão de crédito consignado para o setor público.
+- **Resolução CMN nº 4.655/2018** – disciplina a política de crédito consignado para o setor público.
+- **Resolução CMN nº 2.682/1999** – estabelece critérios de classificação de operações de crédito e constituição de provisões.
 - **Carta-Circular BCB nº 3.846/2017** – orienta sobre o registro correto de operações de crédito.
 - **Código de Autorregulação Bancária da Febraban** – estabelece princípios de atendimento responsável ao consumidor.
 
@@ -30,23 +31,45 @@ Estabelecer diretrizes para concessão responsável de crédito em instituiçõe
 
 5. **Formalização e desembolso**
    - Redigir contratos claros, com cláusulas de taxa, encargos e direitos do consumidor em conformidade com o Código de Defesa do Consumidor (Lei nº 8.078/1990).
-   - Registrar operações em sistemas oficiais quando exigido (ex.: Sistema de Registro de Operações de Crédito – SCR do Banco Central).
+   - Registrar operações em sistemas oficiais quando exigido (ex.: Sistema de Informações de Crédito – SCR do Banco Central).
 
 6. **Monitoramento pós-concessão**
    - Acompanhar indicadores de inadimplência, renegociações e provisões.
    - Reavaliar limites e garantias periodicamente, ajustando classificação de risco conforme normativos do BCB.
+   - Definir gatilhos para revisão automática do rating do cliente diante de eventos negativos (protestos, queda de faturamento, downgrade de rating externo).
 
 ## Proteção do consumidor
 - Cumprir as normas da **Resolução CMN nº 4.949/2021** sobre portabilidade de crédito e transparência de custos.
 - Fornecer informações padronizadas (Custo Efetivo Total – CET) conforme regulamentação do BCB.
 - Respeitar as regras do Cadastro Positivo (Lei Complementar nº 166/2019).
+- Disponibilizar canais de renegociação responsáveis seguindo as diretrizes do Programa Desenrola Brasil quando aplicável.
 
 ## Controles internos e compliance
 - Integrar o comitê de crédito com a função de compliance para garantir aderência às políticas aprovadas.
 - Registrar decisões e votos, mantendo trilha de auditoria para inspeções do Banco Central.
 - Utilizar modelos de credit score auditáveis, com documentação técnica e validação independente.
+- Implementar limites de alçada e segregação de funções para prevenir conflitos de interesse.
+
+## Métricas recomendadas
+- Índice de inadimplência por segmento de carteira.
+- Tempo médio de decisão de crédito versus SLA definido.
+- Percentual de operações com garantias mitigadoras aceitas.
+- Número de revisões de rating realizadas dentro do ciclo previsto.
 
 ## Referências institucionais
 - Banco Central do Brasil – Manuais do Sistema de Informações de Crédito (SCR).
 - CMN – Resoluções sobre gestão de risco de crédito.
 - Febraban – Guia de Melhores Práticas de Crédito Responsável.
+- Ministério da Fazenda – Programa Desenrola Brasil.
+
+## Fontes
+- Conselho Monetário Nacional. Resolução nº 4.557, de 23 de fevereiro de 2017. Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4557
+- Conselho Monetário Nacional. Resolução nº 4.606, de 19 de outubro de 2017. Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4606
+- Conselho Monetário Nacional. Resolução nº 4.327, de 25 de abril de 2014. Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4327
+- Conselho Monetário Nacional. Resolução nº 4.655, de 26 de abril de 2018. Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4655
+- Conselho Monetário Nacional. Resolução nº 2.682, de 21 de dezembro de 1999. Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=2682
+- Banco Central do Brasil. Carta Circular nº 3.846, de 19 de maio de 2017. Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=3846
+- Conselho Monetário Nacional. Resolução nº 4.753, de 27 de outubro de 2019. Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4753
+- Conselho Monetário Nacional. Resolução nº 4.949, de 30 de dezembro de 2021. Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4949
+- Brasil. Lei Complementar nº 166, de 9 de abril de 2019. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp166.htm
+- Brasil. Lei nº 10.820, de 17 de dezembro de 2003. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/2003/l10.820.htm

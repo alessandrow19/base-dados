@@ -9,14 +9,17 @@ Orientar colaboradores de bancos públicos ou com participação estatal sobre o
 - **Decreto nº 6.029/2007** – institui o Sistema de Gestão da Ética do Poder Executivo Federal.
 - **Resolução CGU nº 1/2014** – atualiza orientações sobre comissões de ética e procedimentos de apuração.
 - **Lei nº 12.813/2013** – trata do conflito de interesses no âmbito federal.
+- **Lei nº 12.527/2011** – estabelece regras de acesso à informação.
 
 ## Princípios fundamentais
 1. **Legalidade e impessoalidade**
    - Agir sempre em conformidade com as leis e regulamentos aplicáveis, evitando privilégios e favorecimentos.
 2. **Moralidade e transparência**
-   - Publicar decisões e justificar atos administrativos, garantindo acesso às informações conforme a Lei nº 12.527/2011 (Lei de Acesso à Informação).
+   - Publicar decisões e justificar atos administrativos, garantindo acesso às informações conforme a Lei nº 12.527/2011.
 3. **Eficiência e zelo pelo patrimônio público**
    - Assegurar uso responsável de recursos financeiros e bens do banco público, prevenindo desperdícios.
+4. **Probidade e integridade**
+   - Rejeitar vantagens indevidas, manter postura ética dentro e fora do ambiente de trabalho e relatar condutas suspeitas.
 
 ## Condutas esperadas dos colaboradores
 - Declarar possíveis conflitos de interesses seguindo a Lei nº 12.813/2013 e submeter-se à análise da Comissão de Ética.
@@ -30,6 +33,12 @@ Orientar colaboradores de bancos públicos ou com participação estatal sobre o
 - Manter registro das declarações de bens e rendas (DBR) conforme Decreto nº 5.483/2005.
 - Formalizar termo de ciência e compromisso do Código de Ética para todos os colaboradores.
 - Ativar Comissão de Ética interna, com atas e decisões divulgadas nos termos do Decreto nº 6.029/2007.
+- Publicar relatórios de conformidade ética para a alta administração e órgãos de controle.
+
+## Gestão de riscos éticos
+- Mapear processos críticos (licitações, patrocínios, crédito subsidiado) com maior probabilidade de conflito de interesses.
+- Criar matriz de riscos com indicadores de alerta (volume de presentes recebidos, decisões monocráticas sem justificativa, denúncias recorrentes).
+- Integrar a área de ética ao comitê de compliance para compartilhar informações sensíveis.
 
 ## Consequências disciplinares
 - Penalidades previstas na Lei nº 8.112/1990 (advertência, suspensão, demissão) aplicáveis a servidores estatutários.
@@ -40,3 +49,16 @@ Orientar colaboradores de bancos públicos ou com participação estatal sobre o
 - Portal da CGU – Manuais de ética e conflito de interesses.
 - Comissão de Ética Pública (CEP) – Orientações e decisões normativas.
 - Controladorias estaduais/municipais, quando aplicável.
+- Escola Nacional de Administração Pública (ENAP) – Cursos de ética e integridade.
+
+## Fontes
+- Brasil. Lei nº 8.112, de 11 de dezembro de 1990. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm
+- Brasil. Decreto nº 1.171, de 22 de junho de 1994. Disponível em: https://www.planalto.gov.br/ccivil_03/decreto/1990-1994/d1171.htm
+- Brasil. Decreto nº 6.029, de 1º de fevereiro de 2007. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6029.htm
+- Controladoria-Geral da União. Resolução nº 1, de 25 de maio de 2014. Disponível em: https://www.gov.br/cgu/pt-br/assuntos/etica-publica/legislacao/resolucoes/resolucao-1-2014
+- Brasil. Lei nº 12.813, de 16 de maio de 2013. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12813.htm
+- Brasil. Lei nº 12.527, de 18 de novembro de 2011. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm
+- Brasil. Decreto nº 5.483, de 30 de junho de 2005. Disponível em: https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Decreto/D5483.htm
+- Brasil. Decreto nº 10.153, de 3 de dezembro de 2019. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10153.htm
+- Brasil. Lei nº 8.429, de 2 de junho de 1992. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/l8429.htm
+- Brasil. Lei nº 12.846, de 1º de agosto de 2013. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm

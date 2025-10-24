@@ -7,42 +7,67 @@ Este material orienta gestores e equipes de bancos sobre como estruturar e mante
 - **Resolução CMN nº 4.595/2017** – estabelece a política de conformidade para instituições financeiras supervisionadas pelo BCB.
 - **Resolução CMN nº 4.557/2017** – dispõe sobre a estrutura de gerenciamento de riscos e de capital, incluindo a função de compliance.
 - **Lei nº 12.846/2013 (Lei Anticorrupção)** e **Decreto nº 8.420/2015** – tratam dos programas de integridade e responsabilidade objetiva de pessoas jurídicas por atos contra a administração pública.
+- **Lei Complementar nº 105/2001** – disciplina o sigilo bancário e o compartilhamento de informações com autoridades.
 - **Guia de Boas Práticas de Compliance Febraban (2019)** – recomenda diretrizes complementares para o sistema financeiro nacional.
 
 ## Componentes essenciais do programa
 1. **Comprometimento da alta administração**
    - Formalizar políticas de conformidade aprovadas pelo conselho de administração, conforme previsto na Resolução CMN nº 4.595/2017.
    - Divulgar código de ética alinhado às exigências da CGU e da Febraban, reforçando o tom da liderança.
+   - Estabelecer comitê de conformidade com reuniões registradas e atas arquivadas.
 
 2. **Mapeamento de riscos regulatórios**
    - Atualizar cadastro de leis e normas aplicáveis (BACEN, CVM, COAF, CGU, SUSEP) com periodicidade definida.
    - Utilizar metodologia de avaliação de riscos conforme princípios da Resolução CMN nº 4.557/2017 (identificação, mensuração, monitoramento, controle e mitigação).
+   - Documentar riscos emergentes como open finance, ESG e proteção de dados (LGPD) para o ambiente bancário.
 
 3. **Controles internos e procedimentos documentados**
    - Redigir manuais operacionais que indiquem responsabilidades, fluxos de aprovação e segregação de funções.
    - Manter checklists de conformidade para produtos de crédito, investimentos e serviços, aderindo às regras do Banco Central e da Febraban.
+   - Implementar controle de alterações normativas com responsáveis e prazos definidos.
 
 4. **Treinamento contínuo e comunicação**
    - Realizar capacitações periódicas para temas críticos (PLD/FT, sigilo bancário, proteção de dados), com registro de presença e avaliação, conforme recomendações da Febraban.
    - Divulgar comunicados internos e FAQs sobre atualizações normativas emitidas pelo BCB e demais órgãos.
+   - Utilizar métricas de eficácia (índice de retenção de conhecimento, avaliações pós-treinamento) para ajustar conteúdos.
 
 5. **Canal de denúncias e investigações internas**
    - Disponibilizar canal independente em conformidade com o Decreto nº 8.420/2015 e com o Código de Ética da CGU.
    - Estabelecer procedimentos de investigação, confidencialidade e proteção ao denunciante, registrando conclusões e planos de ação.
+   - Integrar o canal aos sistemas de RH e segurança para acompanhar reincidências.
 
 6. **Monitoramento, testes e auditoria**
    - Aplicar testes de conformidade periódicos para processos críticos, com reporte à diretoria de compliance.
    - Integrar resultados de auditoria interna e externa, garantindo aderência às expectativas do Banco Central nas inspeções.
+   - Preparar relatórios de autoavaliação anual exigidos pelo Banco Central para envio via Sistema de Informações Banco Central (Sisbacen).
 
 7. **Gestão de terceiros**
    - Avaliar fornecedores, correspondentes bancários e parceiros segundo o Guia de Compliance da Febraban, documentando due diligence, cláusulas contratuais e monitoramento.
+   - Exigir cláusulas de anticorrupção, proteção de dados e requisitos de PLD/FT em contratos de terceiros.
 
 ## Indicadores e relatórios
 - Indicadores-chave: cumprimento de planos de ação, percentual de treinamentos concluídos, incidentes de não conformidade, tempo médio de resposta.
 - Relatórios periódicos para a diretoria estatutária e para o conselho, incorporando exigências da Resolução CMN nº 4.595/2017.
+- Dashboards para monitorar status de auditorias, reclamações de clientes e resultados de testes de conformidade.
 
-## Referências oficiais recomendadas
+## Roteiro de implantação
+1. **Diagnóstico inicial** – aplicar checklist de maturidade com base nas normas do CMN e do BCB.
+2. **Plano de ação** – priorizar lacunas críticas (políticas inexistentes, ausência de canal de denúncias) com prazos e responsáveis.
+3. **Execução** – desenvolver políticas, treinar equipes e implementar sistemas de monitoramento.
+4. **Avaliação** – conduzir auditoria independente e revisar indicadores-chave de desempenho.
+5. **Melhoria contínua** – incorporar feedback regulatório e resultados de inspeções do BCB.
+
+## Referências de apoio
 - Banco Central do Brasil – Página de Supervisão Baseada em Risco.
 - CMN – Resoluções nº 4.595/2017 e nº 4.557/2017.
 - CGU – Programa de Integridade: Diretrizes para Empresas Privadas.
 - Febraban – Guia de Boas Práticas de Compliance.
+- Instituto Brasileiro de Governança Corporativa (IBGC) – Código das Melhores Práticas de Governança Corporativa.
+
+## Fontes
+- Conselho Monetário Nacional. Resolução nº 4.595, de 28 de agosto de 2017. Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4595
+- Conselho Monetário Nacional. Resolução nº 4.557, de 23 de fevereiro de 2017. Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4557
+- Brasil. Lei nº 12.846, de 1º de agosto de 2013. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm
+- Brasil. Decreto nº 8.420, de 18 de março de 2015. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/decreto/d8420.htm
+- Banco Central do Brasil. Lei Complementar nº 105, de 10 de janeiro de 2001. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp105.htm
+- Febraban. Guia de Boas Práticas de Compliance. Disponível em: https://portal.febraban.org.br/pagina/3103/46/pt-br/guia-de-compliance

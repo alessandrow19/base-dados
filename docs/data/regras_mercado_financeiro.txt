@@ -8,15 +8,18 @@ Apresentar os principais requisitos regulatórios que impactam operações banc�
 - **Comissão de Valores Mobiliários (CVM)** – regula o mercado de capitais, fundos de investimento e intermediários.
 - **Conselho Monetário Nacional (CMN)** – define diretrizes para políticas monetária, creditícia e cambial.
 - **Superintendência de Seguros Privados (SUSEP)** – fiscaliza seguros, previdência complementar aberta e capitalização.
+- **Banco Nacional de Desenvolvimento Econômico e Social (BNDES)** – condiciona financiamentos a requisitos de compliance e transparência.
 
 ## Normativos fundamentais
 - **Resolução CMN nº 4.557/2017** – estrutura de gerenciamento de riscos para instituições financeiras.
 - **Resolução CMN nº 4.590/2017** – governança corporativa para instituições financeiras de capital aberto.
 - **Resolução CMN nº 4.753/2019** – identificação do beneficiário final e prevenção ao uso indevido de estruturas societárias.
+- **Resolução BCB nº 135/2021** – trata da política de continuidade de negócios em instituições autorizadas.
 - **Instrução CVM nº 505/2011** (alterada pela Resolução CVM nº 135/2022) – regras para intermediação de operações em mercados regulamentados.
 - **Resolução CVM nº 44/2021** – trata de divulgação de atos e fatos relevantes e negociação com valores mobiliários.
 - **Lei nº 6.385/1976** – estrutura o mercado de valores mobiliários e cria a CVM.
 - **Lei nº 4.595/1964** – institui o Conselho Monetário Nacional e disciplina o Sistema Financeiro Nacional.
+- **Lei nº 14.286/2021** – novo marco cambial brasileiro.
 
 ## Temas críticos para compliance
 1. **Chinese walls e tratamento de informações privilegiadas**
@@ -44,10 +47,27 @@ Apresentar os principais requisitos regulatórios que impactam operações banc�
    - Monitorar atualizações e comunicados de supervisão compartilhada (CVM/BCB).
 
 ## Relatórios e prazos
-- Enviar informes periódicos ao Banco Central (Cosif, Documentos 3040 e 3050) e à CVM (Formulário de Referência, Informe Trimestral de Fundos).
+- Enviar informes periódicos ao Banco Central (Cosif, Documentos 3040, 3050, 3060) e à CVM (Formulário de Referência, Informe Trimestral de Fundos).
+- Divulgar fatos relevantes imediatamente no site de Relações com Investidores e na CVM, conforme Resolução CVM nº 44/2021.
 - Manter arquivo de documentação por, no mínimo, 5 anos ou prazo superior estabelecido pela legislação específica.
+- Cumprir prazos de reporte de operações suspeitas à CVM e ao COAF quando envolverem valores mobiliários.
 
-## Materiais de referência
-- Portal do Banco Central – Sistemas de Informações do SFN.
-- Portal da CVM – Biblioteca de normas e ofícios circulares.
-- Febraban – Guias de compliance para mercado de capitais e intermediários financeiros.
+## Indicadores de conformidade
+- Percentual de relatórios regulatórios enviados dentro do prazo.
+- Número de incidentes de uso indevido de informação privilegiada detectados.
+- Quantidade de reclamações de investidores respondidas dentro do SLA.
+- Tempo médio para atualização de políticas após emissão de novos normativos.
+
+## Fontes
+- Conselho Monetário Nacional. Resolução nº 4.557, de 23 de fevereiro de 2017. Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4557
+- Conselho Monetário Nacional. Resolução nº 4.590, de 29 de junho de 2017. Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4590
+- Conselho Monetário Nacional. Resolução nº 4.753, de 27 de setembro de 2019. Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4753
+- Banco Central do Brasil. Resolução nº 135, de 10 de setembro de 2021. Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=135
+- Comissão de Valores Mobiliários. Resolução nº 135, de 10 de junho de 2022. Disponível em: https://conteudo.cvm.gov.br/legislacao/resolucoes/resol135.html
+- Comissão de Valores Mobiliários. Resolução nº 44, de 23 de agosto de 2021. Disponível em: https://conteudo.cvm.gov.br/legislacao/resolucoes/resol044.html
+- Brasil. Lei nº 6.385, de 7 de dezembro de 1976. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/l6385.htm
+- Brasil. Lei nº 4.595, de 31 de dezembro de 1964. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/l4595.htm
+- Brasil. Lei nº 14.286, de 29 de dezembro de 2021. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14286.htm
+- Banco Central do Brasil. Resolução nº 278, de 31 de dezembro de 2022. Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=278
+- Conselho Monetário Nacional. Resolução nº 4.676, de 31 de julho de 2018. Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4676
+- Banco Central do Brasil. Resolução nº 200, de 11 de março de 2022. Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=200
